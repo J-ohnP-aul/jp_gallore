@@ -6,3 +6,4 @@ class GalleryForm(forms.ModelForm):
     model = GalleryItem
     fields = ['title', 'description', 'picture',] 
     
+    
